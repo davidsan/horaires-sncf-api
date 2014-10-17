@@ -34,7 +34,7 @@ Les données distribués par l'API sont celles disponibles à travers le site de
 
 * **Success Response:**
 
-  * **Sample:** 
+  * **Sample of [/station/FRPST](http://api-sncf.davidsan.fr/station/FRPST)** 
   
 ```
 {
