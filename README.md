@@ -18,7 +18,7 @@ Les limitations applicables sont donc celles d'Heroku pour l'exécution d'un dyn
 **Cette API ne doit pas être utilisé en production !**
 
 ## Origine des données
-Les données distribués par l'API sont celles disponibles à travers le site de la SNCF. Elles sont identiques à celles qui sont affichées sur le site de la SNCF.
+Les données distribuées par l'API sont celles disponibles à travers le site de la SNCF. Elles sont identiques à celles qui sont affichées sur le site de la SNCF.
 
 ## Requête /station/
 
@@ -105,5 +105,5 @@ Toutes les données appartiennent à la Société Nationale des Chemins de fer F
 
 ### Droits d'utilisation de cette API
 
-Cette API est réservé à un usage strictement personnel.
+Cette API est réservée à un usage strictement personnel.
 
