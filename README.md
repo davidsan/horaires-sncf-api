@@ -5,7 +5,9 @@
 API expérimentale permettant de récupérer les infos pratiques et horaires des trains au départ ou à l'arrivée disponibles pour plus de 800 gares françaises.
 
 ## Adresse de l'API
-```http://api-sncf.davidsan.fr```
+```
+http://api-sncf.davidsan.fr
+```
 
 L'API est de type REST et renvoie les informations au format JSON.
 
@@ -94,7 +96,7 @@ Les données distribués par l'API sont celles disponibles à travers le site de
       }
    ]
 }
-  ``` 
+``` 
 La liste des codes de gare est accessible dans le fichier station.md.
 
 ### Droits des données
