@@ -40,6 +40,7 @@ Les données distribuées par l'API sont celles disponibles à travers le site d
 {
    code:"FRPST",
    name:"Paris Est",
+   displayName: "Gare de Paris Est ",
    address:"Place du 11 novembre 1918 75475 Paris",
    latitude:"48.877552",
    longitude:"2.359156",
@@ -50,7 +51,7 @@ Les données distribuées par l'API sont celles disponibles à travers le site d
          time:"20:42",
          destination:"CULMONT CH",
          platform:"24",
-         state:"On time"
+         state:"À L'Heure"
       },
       {
          brand:"TGV",
@@ -58,7 +59,7 @@ Les données distribuées par l'API sont celles disponibles à travers le site d
          time:"21:06",
          destination:"NANCY",
          platform:"--",
-         state:"On time"
+         state:"À L'Heure"
       },
       {
          brand:"TGV",
@@ -66,7 +67,7 @@ Les données distribuées par l'API sont celles disponibles à travers le site d
          time:"21:22",
          destination:"SEDAN",
          platform:"--",
-         state:"On time"
+         state:"À L'Heure"
       }
    ],
    arrivals:[
@@ -76,7 +77,7 @@ Les données distribuées par l'API sont celles disponibles à travers le site d
          time:"20:23 Delayed 10MIN",
          destination:"LUXEMBOURG",
          platform:"5",
-         state:"Delayed 10MIN"
+         state:"Retard 25MIN"
       },
       {
          brand:"ELIPSOS",
@@ -84,7 +85,7 @@ Les données distribuées par l'API sont celles disponibles à travers le site d
          time:"20:24 Arrived",
          destination:"MOSCOU",
          platform:"25",
-         state:"Arrived"
+         state:"Arrivé"
       },
       {
          brand:"TGV",
@@ -92,7 +93,7 @@ Les données distribuées par l'API sont celles disponibles à travers le site d
          time:"20:35",
          destination:"REIMS",
          platform:"29",
-         state:"On time"
+         state:"À L'Heure"
       }
    ]
 }
