@@ -40,7 +40,7 @@ Les données distribuées par l'API sont celles disponibles à travers le site d
 {
    code:"FRPST",
    name:"Paris Est",
-   displayName: "Gare de Paris Est ",
+   displayName: "Gare de Paris Est",
    address:"Place du 11 novembre 1918 75475 Paris",
    latitude:"48.877552",
    longitude:"2.359156",
