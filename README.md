@@ -15,7 +15,7 @@ L'API est de type REST et renvoie les informations au format JSON.
 Le serveur est hébergé par Heroku sur un dyno standard avec un forfait "free-tier".
 Les limitations applicables sont donc celles d'Heroku pour l'exécution d'un dyno standard. 
 
-**Cette API ne doit pas être utilisé en production !**
+**Cette API ne doit pas être utilisée en production !**
 
 ## Origine des données
 Les données distribuées par l'API sont celles disponibles à travers le site de la SNCF. Elles sont identiques à celles qui sont affichées sur le site de la SNCF.
